@@ -25,7 +25,7 @@ Secure user registration and caretaker contact setup
 
 # Technologies Used
 
-Python 🐍
+Python 
 
 Machine Learning (CNN / LSTM-based audio classification)
 
@@ -54,4 +54,5 @@ An alert SMS is sent to the caretaker.
 The current GPS coordinates of the user are attached to the message.
 
 If the scream is positive, no alert is sent.
+
 
