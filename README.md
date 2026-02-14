@@ -56,3 +56,37 @@ The current GPS coordinates of the user are attached to the message.
 If the scream is positive, no alert is sent.
 
 
+# Installation / Setup Instructions
+
+pip install tensorflow librosa flask twilio geopy
+
+# How to Clone the Repository
+
+
+git clone https://github.com/Divyasree1809/human-scream-detection.git
+
+
+cd human-scream-detection
+
+# How to Run the Project
+
+
+python app.py
+
+ # Output / Results
+
+Example:
+
+Displays prediction: Positive / Negative Scream
+
+Sends SMS alert with GPS link when danger detected
+
+ # Future Enhancements 
+
+Examples:
+
+Mobile app integration
+
+Multi-language alert support
+
+Improve accuracy with larger dataset
